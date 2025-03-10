@@ -22,7 +22,7 @@ In addition to the Python files, the project originally included an **.exe** tha
    ```sh
    python hook.py
    ```
-4. Run the script:
+4. Run the script in another terminal:
    ```sh
    python bom_dia.py
    ```
